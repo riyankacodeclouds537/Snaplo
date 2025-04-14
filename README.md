@@ -1,0 +1,2 @@
+# Snaplo
+Ecommerce website
